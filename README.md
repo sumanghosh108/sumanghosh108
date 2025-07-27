@@ -1,24 +1,24 @@
 # Hi there 👋, I'm Suman Ghosh
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building practical and impactful software solutions with a keen interest in Artificial Intelligence, Data Science, and Software Engineering.
+I'm a passionate developer focused on building practical and impactful software solutions with a keen interest in Python, Artificial Intelligence, Data Science and Data Analyst.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on projects related to **Banking Management Systems**, **AI-driven Medical Diagnosis**, and **Environmental Data Science**.
-- 🌱 I’m continuously learning and exploring new technologies particularly in **Python**, **MySQL**, **Machine Learning**, and **Web Development**.
+- 🔭 I’m currently worked on projects related to **Banking Management Systems**, **AI-driven Medical Diagnosis**, and **Environmental Data Science**.
+- 🌱 I’m continuously learning and exploring new technologies particularly in **Python**, **MySQL**, **PostgreSQL**,  **Machine Learning**, **Deep Learning**, and **Data Analysis**.
 - 💬 Ask me about anything related to Python programming, database management, and deep learning.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suman-ghosh-108) (update with your real profile link)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumanghosh-p38)
 - ⚡ Fun fact: I believe in solving real-world problems with clean and efficient code.
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, SQL, HTML
-- **Frameworks/Libraries:** TensorFlow, Keras, Scikit-learn, Flask (learning)
-- **Databases:** MySQL
+- **Languages:** Python, SQL
+- **Frameworks/Libraries:** TensorFlow, Scikit-learn, Django (learning)
+- **Databases:** MySQL, PostgreSQL, Sqlite
 - **Tools:** Jupyter Notebook, Git, VS Code
-- **Areas:** Artificial Intelligence, Data Science, Software Engineering, Web Technologies
+- **Areas:** Artificial Intelligence, Data Science, Data Analyst
 
 ---
 
@@ -33,8 +33,6 @@ AI-powered tumor detection using deep learning techniques applied to medical ima
 ### [Air-Quality-Index-Prediction](https://github.com/sumanghosh108/Air-Quality-Index-Prediction)
 A data science project predicting air quality index using environmental data.
 
-### [cv](https://github.com/sumanghosh108/cv)
-A simple personal portfolio/resume website showcasing my skills and projects.
 
 ---
 
