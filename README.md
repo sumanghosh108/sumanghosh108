@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Suman Ghosh
 
-I'm a passionate developer focused on building practical and impactful software solutions with a keen interest in Python, Artificial Intelligence, Data Science and Data Analyst.
+I'm a passionate data aspiring focused on building practical and impactful software solutions with a keen interest in Python, Artificial Intelligence, Data Science and Data Analyst.
 
 ---
 
