@@ -38,7 +38,7 @@ A data science project predicting air quality index using environmental data.
 
 ## 📈 GitHub Stats
 
-![sumanghosh108's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanghosh108&show_icons=true&theme=radical)
+![sumanghosh108's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanghosh108&show_icons=true&hide=issues&count_private=true&hide_rank=true)
 
 ---
 
