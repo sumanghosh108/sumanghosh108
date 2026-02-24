@@ -1,4 +1,3 @@
----
 # Hi there... I'm Suman Ghosh  
 
 **Machine Learning Engineer | Data Scientist | MLOps | AI Systems Builder**
