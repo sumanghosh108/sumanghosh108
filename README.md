@@ -1,18 +1,14 @@
-# Hi there 👋, I'm Suman Ghosh
-
-I'm a passionate data aspiring focused on building practical and impactful software solutions with a keen interest in Python, Artificial Intelligence, Data Science and Data Analyst.
-
 ---
-# Hi there 👋 I'm Suman Ghosh  
+# Hi there... I'm Suman Ghosh  
 
-🚀 **Machine Learning Engineer | Data Scientist | MLOps | AI Systems Builder**
+**Machine Learning Engineer | Data Scientist | MLOps | AI Systems Builder**
 
 I design and deploy **production-grade Machine Learning systems** that solve real-world business problems.  
 Currently focused on **end-to-end ML pipelines, scalable distributed systems, cloud-native ML deployments, and AI chatbot architectures.**
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 Machine Learning Engineer with building scalable ML systems and deploying them on AWS.
 
@@ -28,16 +24,16 @@ I focus on **scalable architecture, production reliability, and measurable busin
 
 ---
 
-## 🧠 Core Expertise
+##  Core Expertise
 
-### 🔹 Machine Learning & AI
+###  Machine Learning & AI
 - Supervised Learning (Logistic Regression, Random Forest, Gradient Boosting)
 - Deep Learning (CNN, VGG19, YOLOv8)
 - Imbalanced Data Handling (SMOTE, Class Weighting, Threshold Tuning)
 - Model Evaluation (Precision-Recall, F1, ROC-AUC)
 - Feature Engineering for large-scale datasets
 
-### 🔹 Chatbot & GenAI Systems
+###  Chatbot & GenAI Systems
 - RAG (Retrieval-Augmented Generation)
 - LLM Integration
 - Prompt Engineering
@@ -45,7 +41,7 @@ I focus on **scalable architecture, production reliability, and measurable busin
 - API-based AI services
 - FastAPI-based chatbot deployment
 
-### 🔹 MLOps & Deployment
+###  MLOps & Deployment
 - AWS SageMaker (Training Jobs, Endpoints)
 - CI/CD with **GitHub Actions**
 - Docker-based containerization
@@ -53,7 +49,7 @@ I focus on **scalable architecture, production reliability, and measurable busin
 - Automated Retraining Pipelines
 - Structured Logging & Monitoring
 
-### 🔹 Data Engineering
+###  Data Engineering
 - ETL Pipeline Design
 - Large-scale data preprocessing
 - PostgreSQL, MySQL
@@ -61,9 +57,9 @@ I focus on **scalable architecture, production reliability, and measurable busin
 
 ---
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
-### 🔹 Insurance Claim Fraud Detection System
+###  Insurance Claim Fraud Detection System
 - Distributed ML architecture for high-volume claim processing
 - Handled severe class imbalance (~2%)
 - Modular production-ready project structure
@@ -72,7 +68,7 @@ I focus on **scalable architecture, production reliability, and measurable busin
 
 ---
 
-### 🔹 Brain Tumor Detection (Deep Learning)
+###  Brain Tumor Detection (Deep Learning)
 - Processed ~19,000 MRI images
 - VGG19 achieved ~98% accuracy
 - YOLOv8 implemented for real-time detection
@@ -80,7 +76,7 @@ I focus on **scalable architecture, production reliability, and measurable busin
 
 ---
 
-### 🔹 RAG-Based AI Chatbot
+###  RAG-Based AI Chatbot
 - Built document-aware chatbot using LLM APIs
 - Implemented retrieval layer for context grounding
 - Added retry logic, rate-limit handling
@@ -88,14 +84,14 @@ I focus on **scalable architecture, production reliability, and measurable busin
 
 ---
 
-### 🔹 Banking Management System
+###  Banking Management System
 - Python + MySQL backend
 - Modular architecture
 - Transaction handling & search optimization
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 Python, SQL  
@@ -119,7 +115,7 @@ Jupyter Notebook, Git, VS Code
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 - Distributed ML System Design
 - Production MLOps Architecture
@@ -129,11 +125,11 @@ Jupyter Notebook, Git, VS Code
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 
 Targeting roles as:
 
-- Machine Learning Engineer (Mid-Level)
+- Machine Learning Engineer
 - Data Scientist
 - MLOps Engineer
 - AI Systems Engineer
@@ -142,13 +138,6 @@ I aim to build **high-impact, production-grade AI systems** that scale.
 
 ---
 
-## 📫 Connect With Me
-
-LinkedIn: (Add your LinkedIn URL)  
-GitHub: https://github.com/sumanghosh108  
-
----
-
-## ⚡ Engineering Philosophy
+##  Engineering Philosophy
 
 > “Model accuracy is important. Production reliability is mandatory.”
