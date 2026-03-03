@@ -93,7 +93,23 @@ I focus on **scalable architecture, production reliability, and measurable busin
 ##  Tech Stack
 
 <!--TECH_STACK_START-->
-Old stack will be replaced automatically
+
+## ⚡ Auto-Generated Tech Stack
+
+- Jupyter Notebook
+- Python
+- JavaScript
+- TypeScript
+- CSS
+- HTML
+- PLpgSQL
+- Shell
+- PowerShell
+- EJS
+- Nix
+- Dockerfile
+- Makefile
+
 <!--TECH_STACK_END-->
 
 **Languages:**  
