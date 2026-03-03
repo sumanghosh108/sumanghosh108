@@ -94,21 +94,19 @@ I focus on **scalable architecture, production reliability, and measurable busin
 
 <!--TECH_STACK_START-->
 
-## ⚡ Auto-Generated Tech Stack
-
-- Jupyter Notebook
-- Python
-- JavaScript
-- TypeScript
-- CSS
-- HTML
-- PLpgSQL
-- Shell
-- PowerShell
-- EJS
-- Nix
-- Dockerfile
-- Makefile
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-blue?style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge)
+![EJS](https://img.shields.io/badge/EJS-blue?style=for-the-badge)
+![Nix](https://img.shields.io/badge/Nix-blue?style=for-the-badge)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-blue?style=for-the-badge)
+![Makefile](https://img.shields.io/badge/Makefile-blue?style=for-the-badge)
 
 <!--TECH_STACK_END-->
 
