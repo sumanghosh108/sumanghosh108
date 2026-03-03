@@ -7,6 +7,18 @@ TOKEN = os.environ["GITHUB_TOKEN"]
 
 HEADERS = {"Authorization": f"token {TOKEN}"}
 
+BADGE_MAP = {
+    "Python": ("Python", "3776AB", "python"),
+    "JavaScript": ("JavaScript", "F7DF1E", "javascript"),
+    "TypeScript": ("TypeScript", "3178C6", "typescript"),
+    "Java": ("Java", "ED8B00", "java"),
+    "C++": ("C++", "00599C", "cplusplus"),
+    "HTML": ("HTML5", "E34F26", "html5"),
+    "CSS": ("CSS3", "1572B6", "css3"),
+    "Jupyter Notebook": ("Jupyter", "F37626", "jupyter"),
+    "Shell": ("Shell", "121011", "gnu-bash"),
+}
+
 def get_repositories():
     repos = []
     page = 1
@@ -42,23 +54,30 @@ def aggregate_languages():
 
     return language_totals
 
-def update_readme(language_totals):
+def generate_badges(language_totals):
     sorted_langs = sorted(language_totals.items(), key=lambda x: x[1], reverse=True)
 
-    tech_section = "## ⚡ Auto-Generated Tech Stack\n\n"
+    badges = ""
     for lang, _ in sorted_langs:
-        tech_section += f"- {lang}\n"
+        if lang in BADGE_MAP:
+            label, color, logo = BADGE_MAP[lang]
+            badges += f"![{label}](https://img.shields.io/badge/{label}-{color}?style=for-the-badge&logo={logo}&logoColor=white)\n"
+        else:
+            badges += f"![{lang}](https://img.shields.io/badge/{lang}-blue?style=for-the-badge)\n"
+
+    return badges
+
+def update_readme(badges):
+    start = "<!--TECH_STACK_START-->"
+    end = "<!--TECH_STACK_END-->"
 
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    start = "<!--TECH_STACK_START-->"
-    end = "<!--TECH_STACK_END-->"
-
     new_content = (
         content.split(start)[0]
         + start + "\n\n"
-        + tech_section
+        + badges
         + "\n"
         + end
         + content.split(end)[1]
@@ -69,4 +88,5 @@ def update_readme(language_totals):
 
 if __name__ == "__main__":
     langs = aggregate_languages()
-    update_readme(langs)
+    badges = generate_badges(langs)
+    update_readme(badges)
