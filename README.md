@@ -92,7 +92,9 @@ I focus on **scalable architecture, production reliability, and measurable busin
 
 ##  Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanghosh108&layout=compact&theme=tokyonight&hide_border=true)
+<!--TECH_STACK_START-->
+Old stack will be replaced automatically
+<!--TECH_STACK_END-->
 
 **Languages:**  
 Python, SQL  
