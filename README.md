@@ -101,10 +101,11 @@ I focus on **scalable architecture, production reliability, and measurable busin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![PLpgSQL](https://img.shields.io/badge/PLpgSQL-blue?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-blue?style=for-the-badge)
 ![Batchfile](https://img.shields.io/badge/Batchfile-blue?style=for-the-badge)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-blue?style=for-the-badge)
 ![Makefile](https://img.shields.io/badge/Makefile-blue?style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-blue?style=for-the-badge)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-blue?style=for-the-badge)
 
 <!--TECH_STACK_END-->
 
