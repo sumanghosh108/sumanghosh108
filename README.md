@@ -18,8 +18,8 @@ Currently focused on **end-to-end ML pipelines, scalable distributed systems, cl
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PLpgSQL](https://img.shields.io/badge/PLpgSQL-blue?style=for-the-badge)
 ![Batchfile](https://img.shields.io/badge/Batchfile-blue?style=for-the-badge)
-![Makefile](https://img.shields.io/badge/Makefile-blue?style=for-the-badge)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-blue?style=for-the-badge)
+![Makefile](https://img.shields.io/badge/Makefile-blue?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-blue?style=for-the-badge)
 
 <!--TECH_STACK_END-->
